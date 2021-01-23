@@ -1,0 +1,3 @@
+ansible_hostname=ubuntu@35.177.163.180 ansible_user=ec2-user
+ansible_hostname=ubuntu@3.11.214.92 ansible_user=ec2-user
+

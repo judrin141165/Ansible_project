@@ -1,0 +1,11 @@
+Host web*
+  User ubuntu
+  IdentityFile ~/.ssh/id_rsa.pub
+Host web01
+  Hostname 35.177.163.180
+
+Host web02
+  Hostname 3.11.214.92
+
+
+
